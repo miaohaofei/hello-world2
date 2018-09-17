@@ -1,2 +1,3 @@
 # hello-world2
-just another repository
+hi everyone ,my name is haofei miao,glad to see you!
+
